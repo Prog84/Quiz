@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af313b8f73fe85e418deaf7c30c1ed62, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  _items:
+  - _id: 0
+    _itemValue: A
+    _icon: {fileID: 4963718625464178563, guid: 707c7771ae69cd140a8aef2460469a50, type: 3}
+    _itemType: 0
+  - _id: 1
+    _itemValue: B
+    _icon: {fileID: 7783457984840754399, guid: 707c7771ae69cd140a8aef2460469a50, type: 3}
+    _itemType: 0
+  - _id: 2
+    _itemValue: C
+    _icon: {fileID: 3234300448368640894, guid: 707c7771ae69cd140a8aef2460469a50, type: 3}
+    _itemType: 0
+  - _id: 3
+    _itemValue: D
+    _icon: {fileID: 7911670913450602933, guid: 707c7771ae69cd140a8aef2460469a50, type: 3}
+    _itemType: 0
+  - _id: 4
+    _itemValue: E
+    _icon: {fileID: 4652326554734856401, guid: 707c7771ae69cd140a8aef2460469a50, type: 3}
+    _itemType: 0
+  - _id: 5
+    _itemValue: F
+    _icon: {fileID: -6426668015567183463, guid: 707c7771ae69cd140a8aef2460469a50,
+      type: 3}
+    _itemType: 0
+  - _id: 6
+    _itemValue: G
+    _icon: {fileID: 216406037199867053, guid: 707c7771ae69cd140a8aef2460469a50, type: 3}
+    _itemType: 0
+  - _id: 7
+    _itemValue: J
+    _icon: {fileID: -2756605603065543306, guid: 707c7771ae69cd140a8aef2460469a50,
+      type: 3}
+    _itemType: 0
+  - _id: 8
+    _itemValue: I
+    _icon: {fileID: -3541686595128163680, guid: 707c7771ae69cd140a8aef2460469a50,
+      type: 3}
+    _itemType: 0
+  - _id: 9
+    _itemValue: H
+    _icon: {fileID: -8235857483100294123, guid: 707c7771ae69cd140a8aef2460469a50,
+      type: 3}
+    _itemType: 0
+  - _id: 10
+    _itemValue: K
+    _icon: {fileID: -1127063002332224934, guid: 707c7771ae69cd140a8aef2460469a50,
+      type: 3}
+    _itemType: 0
+  - _id: 11
+    _itemValue: L
+    _icon: {fileID: -5901097786099144959, guid: 707c7771ae69cd140a8aef2460469a50,
+      type: 3}
+    _itemType: 0
+  - _id: 12
+    _itemValue: 1
+    _icon: {fileID: 1422184923334757970, guid: 6df4430718dcf8740b14024a54625da4, type: 3}
+    _itemType: 1
+  - _id: 13
+    _itemValue: 2
+    _icon: {fileID: 1808195818850983521, guid: 6df4430718dcf8740b14024a54625da4, type: 3}
+    _itemType: 1
+  - _id: 14
+    _itemValue: 3
+    _icon: {fileID: -7900951133411543555, guid: 6df4430718dcf8740b14024a54625da4,
+      type: 3}
+    _itemType: 1
+  - _id: 15
+    _itemValue: 4
+    _icon: {fileID: 2267071060405275165, guid: 6df4430718dcf8740b14024a54625da4, type: 3}
+    _itemType: 1
+  - _id: 16
+    _itemValue: 5
+    _icon: {fileID: -7398325283844340781, guid: 6df4430718dcf8740b14024a54625da4,
+      type: 3}
+    _itemType: 1
+  - _id: 17
+    _itemValue: 6
+    _icon: {fileID: -7015292045520539579, guid: 6df4430718dcf8740b14024a54625da4,
+      type: 3}
+    _itemType: 1
+  - _id: 18
+    _itemValue: 7
+    _icon: {fileID: -3864270613518650326, guid: 913b4c22b575d2748ad9e0b3d65db76c,
+      type: 3}
+    _itemType: 1
+  - _id: 19
+    _itemValue: 8
+    _icon: {fileID: -3304312553479857383, guid: 913b4c22b575d2748ad9e0b3d65db76c,
+      type: 3}
+    _itemType: 1
+  - _id: 20
+    _itemValue: 9
+    _icon: {fileID: -1155199509967091035, guid: 5926dcdc555426a4ebd99c06529eb13b,
+      type: 3}
+    _itemType: 1
+  - _id: 21
+    _itemValue: 10
+    _icon: {fileID: 4142021021139464533, guid: 1101cec7529cc7f48b2740ca79c646e3, type: 3}
+    _itemType: 1
+  _currentItem:
+    _id: 21
+    _itemValue: 10
+    _icon: {fileID: 4142021021139464533, guid: 1101cec7529cc7f48b2740ca79c646e3, type: 3}
+    _itemType: 1
